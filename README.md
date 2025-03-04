@@ -34,9 +34,4 @@ npm install
 ng serve
 ```
 
-## Contribución
-Si deseas contribuir a este proyecto, realiza un **fork**, crea una nueva rama y envía un **pull request** con tus mejoras.
-
-## Licencia
-Este proyecto está bajo la licencia MIT.
 
