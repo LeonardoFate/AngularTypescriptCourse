@@ -22,7 +22,7 @@ Este repositorio contiene los ejercicios y proyectos desarrollados durante el cu
 ## Instalación y Uso
 ```sh
 # Clona el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+[git clone https://github.com/tu-usuario/tu-repositorio.git](https://github.com/LeonardoFate/AngularTypescriptCourse.git)
 
 # Accede al directorio del proyecto
 cd tu-repositorio
@@ -31,7 +31,7 @@ cd tu-repositorio
 npm install
 
 # Inicia el servidor de desarrollo
-ng serve
+npm run dev
 ```
 
 
